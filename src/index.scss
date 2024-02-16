@@ -1,0 +1,22 @@
+.text-center {
+  text-align: center;
+}
+
+.card {
+  width: 180px;
+  height: 100%;
+}
+
+.header {
+  background-color: white;
+  font-size: 40px;
+  @extend .text-center;
+}
+
+.content {
+  padding: 24px 24px;
+}
+
+.w-50 {
+  width: 50%;
+}
