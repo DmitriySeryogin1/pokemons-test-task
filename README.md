@@ -11,6 +11,6 @@
 
 ## How to start project
 
-1. Run <code>https://github.com/DmitriySeryogin1/pokemons-test-task.git</code> command
+1. Run <code>git clone https://github.com/DmitriySeryogin1/pokemons-test-task.git</code> command
 2. Run <code>npm i</code> command
 3. Run <code>npm run dev</code> command
